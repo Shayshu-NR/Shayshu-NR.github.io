@@ -1,4 +1,147 @@
-.faveFont{
+@font-face {
+    font-family: 'futurabold';
+    src: url('fonts/unicode.futurab-webfont.woff2') format('woff2'),
+         url('fonts/unicode.futurab-webfont.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
-    font-family: ;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futuralight_italic';
+    src: url('fonts/futura_light_italic_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_light_italic_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futuramedium';
+    src: url('fonts/futura_medium_bt-webfont.woff2') format('woff2'),
+         url('fonts/futura_medium_bt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futuramedium_italic';
+    src: url('fonts/futura_medium_italic_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_medium_italic_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futura_xblk_btextra_black';
+    src: url('fonts/futura_xblk_bt-webfont.woff2') format('woff2'),
+         url('fonts/futura_xblk_bt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futurabold';
+    src: url('fonts/futura_bold_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_bold_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futurabold_italic';
+    src: url('fonts/futura_bold_italic_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_bold_italic_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futurabook';
+    src: url('fonts/futura_book_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_book_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futurabook_italic';
+    src: url('fonts/futura_book_italic_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_book_italic_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futuraextra_black';
+    src: url('fonts/futura_extra_black_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_extra_black_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futuraheavy';
+    src: url('fonts/futura_heavy_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_heavy_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futuraheavy_italic';
+    src: url('fonts/futura_heavy_italic_font-webfont.woff2') format('woff2'),
+         url('fonts/futura_heavy_italic_font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+.fave{
+    font-family: 'f';
+    font-weight: normal;
+    font-style: normal;
 }
