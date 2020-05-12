@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $('#issame').hover(
+        function(){
+            $(this).slideup(1000);
+        },
+        function(){
+            $(this).show(1000);
+        }
+    );
+});
