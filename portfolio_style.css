@@ -57,6 +57,7 @@ p{
     padding-bottom: 5px;
     display: flex;
     justify-content: space-evenly;
+    opacity: 0;
 }
 
 .exhibit{
@@ -111,4 +112,16 @@ p{
 .img_container_exhibit{
     
 }
+
+iframe:hover{
+    width: 1000px;
+    height: 1000px;
+    box-shadow: 3px 3px 2px rgb(97, 95, 95); 
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
 
