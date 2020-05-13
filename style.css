@@ -161,6 +161,7 @@ h1 {
     font-variant: bold; 
     font-weight: 700; 
     line-height: 35px; 
+    color: rgb(35,31,32);
 } 
 
 h3 { 
@@ -231,5 +232,5 @@ pre {
   }
 
 .square_btn:hover {
-    box-shadow: 3px 3px 3px #FFFFFF;
+    box-shadow: 3px 3px 3px rgb(97, 95, 95);
 }
