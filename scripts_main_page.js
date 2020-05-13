@@ -11,9 +11,6 @@ $(document).ready(function(){
           { queue: false, duration: 'slow' }
         );
     }, 2000);
-
-
-
 });
 
 
