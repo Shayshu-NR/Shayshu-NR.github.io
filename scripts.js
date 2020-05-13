@@ -1,10 +1,13 @@
 $(document).ready(function(){
-    $('#issame').hover(
-        function(){
-            $(this).slideup(1000);
-        },
-        function(){
-            $(this).show(1000);
-        }
-    );
+    setTimeout(function(){
+        $('#main_banner').slideDown(1000);
+    }, 1000);
+
+    $('#portfolio_button').delay(500).slideDown(1000);
+  
 });
+
+
+
+
+    
