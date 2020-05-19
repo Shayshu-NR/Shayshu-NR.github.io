@@ -12,4 +12,26 @@ $(document).ready(function(){
         );
 
     }, 2000);
+
+    // $('iframe').on("click",
+    //     function(){
+    //         $(this).animate(
+    //             {height: '1000px',
+    //             width: '1000px',
+    //             left: '100px'},
+    //             'slow');
+            
+    //         $(this).html(align = 'left');
+    //     },
+    //     function(){
+    //         $(this).animate(
+    //             {height: '300px',
+    //             width: '300px'},
+    //             'slow');
+            
+    //         $(this).html(align = 'center');
+    //     }
+    // );
+
+
 });

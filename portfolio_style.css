@@ -109,11 +109,13 @@ p{
     background-color: rgb(35,31,32);
 }
 
-.img_container_exhibit{
-    
+
+iframe{
+    animation-delay: 0.5s;
+    animation-direction: alternate-reverse;
 }
 
-iframe:hover{
+/* iframe:hover{
     width: 1000px;
     height: 1000px;
     box-shadow: 3px 3px 2px rgb(97, 95, 95); 
@@ -121,7 +123,7 @@ iframe:hover{
     padding-right: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
-}
+} */
 
 
 
